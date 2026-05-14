@@ -27,7 +27,7 @@ Buscando ativamente minha primeira oportunidade de estágio ou projetos para apl
 ---
 ### 📄 CURSOS
 - Pacote Office Avançado 365
-- Lógica de Progrmação
+- Lógica de Programação
 
 ---
 ### 📚 HABILIDADES
